@@ -1,10 +1,3 @@
-//
-//  POTDApp.swift
-//  POTD
-//
-//  Created by Ilya Shcherbakov on 09.03.2026.
-//
-
 import SwiftUI
 
 @main
